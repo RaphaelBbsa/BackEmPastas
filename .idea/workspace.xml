@@ -20,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "RaphaelBbsa"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/RaphaelBbsa/exercicio_java.git",
@@ -75,7 +81,7 @@
       <updated>1713795573808</updated>
       <workItem from="1713795574881" duration="4644000" />
       <workItem from="1713984979751" duration="3295000" />
-      <workItem from="1714090817364" duration="5484000" />
+      <workItem from="1714090817364" duration="6187000" />
     </task>
     <task id="LOCAL-00001" summary="Subindo exercicio do mod 10">
       <option name="closed" value="true" />
@@ -85,7 +91,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714141383753</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Subindo exercicio do mod 10">
+      <option name="closed" value="true" />
+      <created>1714141437221</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714141437221</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
