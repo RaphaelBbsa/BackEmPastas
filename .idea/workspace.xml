@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15a7a599-7dcb-4442-842c-b89ed74d61c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mod10_java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tabuada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rportoforewhile/ExercicioMod10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rportoforewhile/MultiploDe5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rportoforewhile/TabuadaCWhile.java" afterDir="false" />
-    </list>
+    <list default="true" id="15a7a599-7dcb-4442-842c-b89ed74d61c6" name="Changes" comment="Subindo exercicio do mod 10" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/RaphaelBbsa/exercicio_java.git",
+    "accountId": "9aa746e5-0196-4f88-9641-a0a1c2955557"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/rportoforewhile/ExercicioMod10.java" root0="SKIP_INSPECTION" />
   </component>
@@ -83,11 +75,24 @@
       <updated>1713795573808</updated>
       <workItem from="1713795574881" duration="4644000" />
       <workItem from="1713984979751" duration="3295000" />
-      <workItem from="1714090817364" duration="4653000" />
+      <workItem from="1714090817364" duration="5484000" />
     </task>
+    <task id="LOCAL-00001" summary="Subindo exercicio do mod 10">
+      <option name="closed" value="true" />
+      <created>1714141383753</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714141383753</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Subindo exercicio do mod 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="Subindo exercicio do mod 10" />
   </component>
 </project>
